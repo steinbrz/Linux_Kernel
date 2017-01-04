@@ -1,0 +1,10 @@
+Working:
+File system
+System Calls mostly
+RTC
+Paging(might need to be tweaked)
+Terminal Driver
+Keyboard Driver
+Interrupts
+Not Working:
+Only thing with serious issues is scheduling
